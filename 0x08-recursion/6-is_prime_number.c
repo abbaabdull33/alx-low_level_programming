@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 int actual_prime(int n, int i);
 
