@@ -13,5 +13,5 @@ def find_largest_palindrome():
 result = find_largest_palindrome()
 
 with open('102-result', 'w') as file:
-    file.write(str(result))
+    file.write(str(result).strip())
 
